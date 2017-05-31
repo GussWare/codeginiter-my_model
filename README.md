@@ -1,1 +1,1 @@
-codeginiter-my_model
+Clase que agrega funcionalidad a los modelos 
