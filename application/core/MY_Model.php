@@ -596,3 +596,9 @@ class MY_Model extends CI_Model {
         return $this->__num_affected_rows;
     }
 }
+
+
+
+
+
+
